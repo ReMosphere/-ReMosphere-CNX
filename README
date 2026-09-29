@@ -1,6 +1,7 @@
 ## About This Release
 
-This release is a rebuilt version based on the original source code of [CNX](https://github.com/CostelaCNX/CNX/releases).
+This release is a rebuilt version based on the original source code of [CNX](https://github.com/CostelaCNX/CNX/releases)
+
 
 This Atmosphère package includes several additional modules that are not included in, or are otherwise unavailable from, the original source.
 
